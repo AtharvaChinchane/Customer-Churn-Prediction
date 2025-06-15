@@ -1,5 +1,5 @@
 
-# <h1>📉 Customer Churn Prediction<\h1>
+<h1>📉 Customer Churn Prediction<\h1>
 
 This project is focused on predicting customer churn for a telecom company using machine learning techniques. It includes data preprocessing, model training, evaluation, and deployment using `scikit-learn`, `XGBoost`, and `SMOTE` for imbalanced classification.
 
